@@ -31,7 +31,8 @@ All using Large Language Models (LLMs) via LangChain and OpenAI API.
 
 ## 📸 Demo Screenshot
 
-![App Screenshot](images\APP_SS.PNG)
+![App Screenshot](images/APP_SS.PNG)
+
 
 [Watch it on YouTube](https://www.loom.com/share/664b96ba93e64fee899ca010a7fccd1a?sid=85aacecf-6b8f-481e-8b8e-e65fbf6c4fa2)
 
