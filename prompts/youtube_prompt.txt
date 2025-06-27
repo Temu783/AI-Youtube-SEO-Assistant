@@ -1,0 +1,9 @@
+Generate an engaging YouTube SEO title, a professional description, 10 tags, and 3 content ideas for the topic: {topic}.
+
+Respond in JSON format like this:
+{{
+  "title": "Your YouTube video title",
+  "description": "An SEO optimized description with keywords.",
+  "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8", "tag9", "tag10"],
+  "ideas": ["Idea 1", "Idea 2", "Idea 3"]
+}}
