@@ -32,8 +32,9 @@ All using Large Language Models (LLMs) via LangChain and OpenAI API.
 ## 📸 Demo Screenshot
 
 <p align="center">
-  <img src="images/AI YouTube SEO Assistant.png" width="700"/>
+  <img src="images/thumbnail.png" width="700"/>
 </p>
+
 
 
 
